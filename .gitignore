@@ -1,32 +1,29 @@
-# Prerequisites
-*.d
+# Ignore build directory
+/build/
 
-# Compiled Object files
-*.slo
-*.lo
+# Ignore all text files
+*.txt
+
+# Ignore CMake generated files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.cmake
+!CMakeLists.txt  # Do not ignore CMakeLists.txt files
+
+# Ignore object files
 *.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
 *.a
-*.lib
 
-# Executables
-*.exe
-*.out
-*.app
+# Ignore executable files
+# Replace `my_executable` with the name of your actual executable
+my_executable
+
+# Ignore IDE specific files
+.idea/
+*.user
+*.suo
+*.sln.docstates
+.vscode
+
+# Add other files or directories as needed
