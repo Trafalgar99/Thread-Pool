@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/safequeue/safequeue.h
+iostream
+-
+queue
+-
+mutex
+-
+
+../src/threadpool/threadpool.h
+iostream
+-
+
+C:/Users/86158/Desktop/ThreadPool/src/mian.cpp
+iostream
+-
+threadpool.h
+-
+safequeue.h
+-
+thread
+-
+condition_variable
+-
+mutex
+-
+vector
+-
+chrono
+-
+

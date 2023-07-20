@@ -1,0 +1,2 @@
+D:\mingw64\bin\ar.exe qc libsafecout.a CMakeFiles/safecout.dir/safecout.cpp.obj
+D:\mingw64\bin\ranlib.exe libsafecout.a
