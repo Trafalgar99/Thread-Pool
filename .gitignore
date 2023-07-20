@@ -17,13 +17,13 @@ Makefile
 
 # Ignore executable files
 # Replace `my_executable` with the name of your actual executable
-my_executable
+main
 
 # Ignore IDE specific files
 .idea/
 *.user
 *.suo
 *.sln.docstates
-.vscode
+.vscode/
 
 # Add other files or directories as needed
