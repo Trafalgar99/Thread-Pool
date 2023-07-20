@@ -1,6 +1,0 @@
-C:/Users/86158/Desktop/ThreadPool/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/86158/Desktop/ThreadPool/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/86158/Desktop/ThreadPool/build/src/CMakeFiles/main.dir
-C:/Users/86158/Desktop/ThreadPool/build/src/threadpool/CMakeFiles/threadpool.dir
-C:/Users/86158/Desktop/ThreadPool/build/src/safequeue/CMakeFiles/safequeue.dir
-C:/Users/86158/Desktop/ThreadPool/build/src/safecout/CMakeFiles/safecout.dir
